@@ -82,3 +82,39 @@ function closePost() {
 if (window.location.hash) {
     openPost();
 }
+
+// Dark mode functionality
+function initDarkMode() {
+    const darkModeToggle = document.getElementById('dark-mode-toggle');
+    const body = document.body;
+    const html = document.documentElement;
+    const toggleIcon = document.querySelector('.toggle-icon');
+    
+    // Check for saved dark mode preference or default to light mode
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    
+    // Apply initial mode
+    if (isDarkMode) {
+        body.classList.add('dark-mode');
+        html.classList.add('dark-mode');
+        toggleIcon.textContent = '☀️';
+    } else {
+        toggleIcon.textContent = '🌙';
+    }
+    
+    // Toggle dark mode on button click
+    darkModeToggle.addEventListener('click', () => {
+        body.classList.toggle('dark-mode');
+        html.classList.toggle('dark-mode');
+        const isNowDarkMode = body.classList.contains('dark-mode');
+        
+        // Update icon
+        toggleIcon.textContent = isNowDarkMode ? '☀️' : '🌙';
+        
+        // Save preference
+        localStorage.setItem('darkMode', isNowDarkMode);
+    });
+}
+
+// Initialize dark mode after DOM is loaded
+initDarkMode();

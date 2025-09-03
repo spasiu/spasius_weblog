@@ -5,6 +5,11 @@ body {
     margin: 0 auto;
     padding: 2rem;
     color: #333;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html {
+    transition: background-color 0.3s ease;
 }
 
 h1 {
@@ -108,4 +113,91 @@ code {
 /* Checkbox styling */
 input[type="checkbox"] {
     transform: scale(1.1);
+}
+
+/* Dark mode toggle button */
+#dark-mode-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: 2px solid #333;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    cursor: pointer;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+
+#dark-mode-toggle:hover {
+    transform: scale(1.1);
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode styles - proper color inversion */
+body.dark-mode {
+    background-color: #0a0a0a;
+    color: #e0e0e0;
+}
+
+body.dark-mode h1 {
+    color: #ffffff;
+    border-bottom-color: #333;
+}
+
+body.dark-mode h2 {
+    color: #ffffff;
+}
+
+body.dark-mode .title {
+    border-bottom-color: #333;
+    color: #ffffff;
+}
+
+body.dark-mode .title .date {
+    color: #999;
+}
+
+body.dark-mode .post {
+    border-left-color: #333;
+    color: #e0e0e0;
+}
+
+body.dark-mode a {
+    color: #66b3ff;
+}
+
+body.dark-mode code {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+}
+
+body.dark-mode .title.collapsed::before,
+body.dark-mode .title.expanded::before {
+    color: #666;
+}
+
+/* Dark mode toggle button adjustments for dark mode */
+body.dark-mode #dark-mode-toggle {
+    border-color: #ccc;
+    color: #ffffff;
+}
+
+body.dark-mode #dark-mode-toggle:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Ensure html also gets dark background */
+html.dark-mode {
+    background-color: #0a0a0a;
+}
+
+/* Toggle icon styling */
+.toggle-icon {
+    font-size: 1.2rem;
 }
