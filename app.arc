@@ -1,13 +1,13 @@
 @app
 personal-site
 
+@http
+get /ping
+
 @static
 spa true
 prune true
 compression br
-
-@shared
-src src/shared
 
 @aws
 # profile default
