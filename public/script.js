@@ -40,6 +40,8 @@ document.querySelector("#markdown").innerHTML = html;
 initImageExpansion();
 // Initialize table column sizing after content is inserted
 initTableColumnSizing();
+// Initialize task list classification after content is inserted
+initTaskListClassification();
 
 document.querySelectorAll(".title").forEach(title => {
     title.addEventListener("click", () => {
@@ -202,5 +204,16 @@ function initTableColumnSizing() {
         headers.forEach((header, index) => {
             header.style.width = columnWidths[index] + '%';
         });
+    });
+}
+
+// Task list classification functionality
+function initTaskListClassification() {
+    // Find all ul elements and check if they contain checkboxes
+    document.querySelectorAll('ul').forEach(ul => {
+        const hasCheckbox = ul.querySelector('input[type="checkbox"]');
+        if (hasCheckbox) {
+            ul.classList.add('task-list');
+        }
     });
 }
