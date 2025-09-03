@@ -10,5 +10,5 @@ prune true
 compression br
 
 @aws
-# profile default
+# profile stasi
 region us-west-2

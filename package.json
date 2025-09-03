@@ -1,9 +1,11 @@
 {
   "name": "personal-site",
+  "type": "module",
   "version": "0.0.0",
   "description": "A fresh new Architect project!",
   "scripts": {
-    "start": "npx sandbox"
+    "start": "npx sandbox",
+    "generate-rss": "node generate-rss.js"
   },
   "devDependencies": {
     "@architect/architect": "^11.3.0"

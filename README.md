@@ -64,6 +64,39 @@ npx arc deploy
 
 This will build and publish the contents of `public/`.
 
+## RSS Feed
+
+This blog automatically generates an RSS feed at `public/rss.xml`. The RSS feed includes all published blog posts (excluding drafts marked with `[draft]` in the heading).
+
+### Environment Configuration
+
+Create a `.env` file in the project root with the following variables:
+
+```
+SITE_URL=https://yourdomain.com
+SITE_TITLE=Your Blog Title
+SITE_DESCRIPTION=A description of your blog
+AUTHOR_EMAIL=your.email@example.com
+```
+
+### Generating RSS Feed
+
+To manually generate the RSS feed:
+
+```
+npm run generate-rss
+```
+
+The RSS feed is automatically regenerated on every git commit via a pre-commit hook.
+
+### RSS Feed Features
+
+- Automatically extracts blog posts from `public/blog.md`
+- Excludes draft posts (those with `[draft]` in the heading)
+- Converts relative image paths to absolute URLs
+- Generates proper RSS 2.0 XML format
+- Uses dates from post headings (format: YYYY.MM.DD)
+
 ## Notes
 
 - Image paths in Markdown should be relative to `public/` (e.g., `assets/foo.jpg`).
