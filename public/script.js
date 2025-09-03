@@ -38,6 +38,8 @@ document.querySelector("#markdown").innerHTML = html;
 
 // Initialize image expansion after content is inserted
 initImageExpansion();
+// Initialize table column sizing after content is inserted
+initTableColumnSizing();
 
 document.querySelectorAll(".title").forEach(title => {
     title.addEventListener("click", () => {
@@ -93,6 +95,15 @@ if (window.location.hash) {
     openPost();
 }
 
+// Listen for hash changes (browser back/forward, direct URL navigation)
+window.addEventListener('hashchange', () => {
+    if (window.location.hash) {
+        openPost();
+    } else {
+        closePost();
+    }
+});
+
 // Dark mode functionality
 function initDarkMode() {
     const darkModeToggle = document.getElementById('dark-mode-toggle');
@@ -131,11 +142,65 @@ initDarkMode();
 
 // Image expansion functionality
 function initImageExpansion() {
-    // Add click handlers to all images
+    // Add click handlers to all images and set up tooltips
     document.querySelectorAll('img').forEach(img => {
+        // Add tooltip using alt text
+        const altText = img.getAttribute('alt');
+        if (altText && altText.trim()) {
+            img.setAttribute('title', altText);
+        }
+        
+        // Add click handler for expansion
         img.addEventListener('click', (e) => {
             e.stopPropagation();
             img.classList.toggle('expanded');
+        });
+    });
+}
+
+// Table column sizing based on content volume
+function initTableColumnSizing() {
+    document.querySelectorAll('table').forEach(table => {
+        // Set table-layout to fixed for manual column control
+        table.style.tableLayout = 'fixed';
+        
+        const headers = table.querySelectorAll('th');
+        const rows = table.querySelectorAll('tr');
+        
+        if (headers.length === 0) return;
+        
+        // Calculate character count for each column
+        const columnCharCounts = Array(headers.length).fill(0);
+        
+        rows.forEach(row => {
+            const cells = row.querySelectorAll('th, td');
+            cells.forEach((cell, index) => {
+                if (index < columnCharCounts.length) {
+                    // Count visible text characters, excluding HTML tags
+                    const textContent = cell.textContent || cell.innerText || '';
+                    columnCharCounts[index] += textContent.trim().length;
+                }
+            });
+        });
+        
+        // Calculate total character count
+        const totalChars = columnCharCounts.reduce((sum, count) => sum + count, 0);
+        
+        if (totalChars === 0) return; // Avoid division by zero
+        
+        // Set minimum width percentage (so no column is too narrow)
+        const minWidthPercent = 8;
+        const availablePercent = 100 - (minWidthPercent * headers.length);
+        
+        // Calculate proportional widths
+        const columnWidths = columnCharCounts.map(count => {
+            const proportionalPercent = (count / totalChars) * availablePercent;
+            return minWidthPercent + proportionalPercent;
+        });
+        
+        // Apply the calculated widths
+        headers.forEach((header, index) => {
+            header.style.width = columnWidths[index] + '%';
         });
     });
 }

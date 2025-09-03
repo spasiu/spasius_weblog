@@ -2,13 +2,38 @@
 
 The scratchpad of my life.
 
+![My table](assets/table.jpg)
+
 ## [draft] It's that time of the month 2025.09.05
 
 ...
 
-## [draft] How I made this blog site 2025.09.04
+## Thoughts On the Origin of Species 2025.09.03
 
-...
+- Pigeons clearly evolved from rock doves.
+- Amazing description of observable behaviour of the system without the explanatory mechanisms. Darwin was reverse engineering evolution.
+- I like the discussion of bottlenecks and interbreeding as a mechanism for speciation or maintenance of species. Makes me think of fun sci-fi ideas like colonists to other planets someday becoming aliens with huge differences based on the minor variations of their ancestors and the selection pressures of their new planets. ![ChatGPT's 1021st century Terran](assets/terran.png) ![ChatGPT's 1021st century Venusian](assets/venusian.png) ![ChatGPT's 1021st century Martian](assets/martian.png)
+- It would be neat to read a sci-fi where use/disuse based inheritance was as big a thing as Darwin thought it was. ![ChatGPT's 32nd century Lunar Jovian](assets/lunar_jovian.png)
+- Polymorphism is way cooler in biology than in programming.
+- The fossil record is pathetic.
+- Homology and analogy. Structural similarity can signal relatedness and shows common origins. Analogy occurs between unrelated species that use common functionality.
+
+## How I made this blog site 2025.09.03
+
+I wanted to write my blog as a single ever expanding markdown file (blog.md) served from S3/CloudFront, but also make it a bit prettier on the presentation end than just markdown.
+
+Basically the client side fetches the markdown file and renders it client side nesting articles under h2 headings, supporting a dark mode, rendering images as little expandable stamps, and GitHub style checkbox support.
+
+Some future additions:
+
+- [ ] support for h3, h4, h5, h6 headings
+- [ ] comments
+- [ ] search
+- [ ] some completely random AI functionaltiy
+
+![A screenshot of VS Code showing this blog post in Markdown](assets/vs_code.png)
+
+[Source code on GitHub](https://github.com/spasiu/spasius_weblog).
 
 ## Living Ergonomically One 2025.09.03
 
@@ -60,7 +85,7 @@ This list is taken from the Art of Accomplishment mailing list. You can [subscri
 
 Stuff I want to read. Mostly biology and machine learning themed.
 
-- [ ] **Charles Darwin — _On the Origin of Species_** [Reading on Remarkable](https://darwin-online.org.uk/converted/pdf/1861_OriginNY_F382.pdf)
+- [x] **Charles Darwin — _On the Origin of Species_** [Reading on Remarkable](#thoughts-on-the-origin-of-species-2025-09-03)
 - [ ] **Erwin Schrödinger — _What Is Life?_** [Listening on Audible](https://www.audible.ca/pd/What-Is-Life-Audiobook/1541446410)
 - [ ] **Paul Nurse — _What Is Life? Five Great Ideas in Biology_**
 - [ ] [**Horace Freeland Judson — _The Eighth Day of Creation_**](https://archive.org/details/eighthdayofcreat00juds)
