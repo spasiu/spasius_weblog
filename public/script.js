@@ -4,7 +4,13 @@ const response = await fetch("blog.md");
 const markdown = await response.text();
 const sections = markdown.trim().split('## ');
 const headerContent = sections[0];
-const blogSections = sections.slice(1);
+// Filter out draft posts (those with [draft] in the heading)
+const blogSections = sections.slice(1).filter((section) => {
+    const splitIndex = section.indexOf('\n');
+    const heading = section.slice(0, splitIndex);
+    // Exclude sections that contain [draft] in the heading (case-insensitive)
+    return !heading.toLowerCase().includes('[draft]');
+});
 
 // Process header content
 const processedHeader = marked.parse(headerContent);

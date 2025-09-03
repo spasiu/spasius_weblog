@@ -1,6 +1,27 @@
-# Blog
+# Spasiu's Weblog
 
-This is [my](https://www.linkedin.com/in/spasiu/) personal weblog. Started on a whim in September 2025.
+The scratchpad of my life.
+
+## [draft] How I made this blog site 2025.09.04
+
+...
+
+## Living Ergonomically One 2025.09.03
+
+I'm curious what would happen if I payed attention to how I felt inside and outside, and tried to be as comfortabel as possible. Like walking down the street, trying to walk as comfortably as possible. Going to a party, doing what I need to feel at ease. Just being ergonomic.
+
+## Inner Dialogue One 2025.09.03
+
+What if my inner voice just asked questions? What if it didn't gife me answers? What if it didn't make statements or judgements? Could be a fun experiment.
+
+Maybe sometimes my inner voice will make a statement or a judgement, or respond to a question. And I'll just say "What if that was a question?"
+
+- _That person doesn't like me._ -> _What if that person doesn't like me?_
+- _You're not good enough._ -> _What if you're not good enough?_
+- _I don't feel good right now._ -> _How do I feel right now?_
+- ...
+
+Why questions might be sort of judgey, so perhaps I'll stick to **_how?_** and **_what?_** and **_could?_**, instead of **_why?_** and **_should?_** In spirit if not to the letter. It's all a big experiment.
 
 ## Twenty Psychoactive Questions 2025.09.02
 
@@ -29,41 +50,41 @@ This list is taken from the Art of Accomplishment mailing list. You can [subscri
 
 ## My September Reading List 2025.09.01
 
-I've decided to reduce my doomscrolling and start reading long form again. I didn't really go deep on biology as a kid, and I though it'd be fun to dive into bioinformatis, but like completely from the ground up. So I'm starting with Darwin.
+Stuff I want to read. Mostly biology and machine learning themed.
 
-- [ ] **Charles Darwin — *On the Origin of Species*** [Reading on Remarkable](https://darwin-online.org.uk/converted/pdf/1861_OriginNY_F382.pdf)
-- [ ] **Erwin Schrödinger — *What Is Life?*** [Listening on Audible](https://www.audible.ca/pd/What-Is-Life-Audiobook/1541446410)
-- [ ] **Paul Nurse — *What Is Life? Five Great Ideas in Biology***
-- [ ] [**Horace Freeland Judson — *The Eighth Day of Creation***](https://archive.org/details/eighthdayofcreat00juds)
-- [ ] [**Theodosius Dobzhansky — *Genetics and the Origin of Species***](https://archive.org/details/geneticsoriginfo00dobz)
-- [ ] [**R. A. Fisher — *The Genetical Theory of Natural Selection***](https://archive.org/download/geneticaltheoryo031631mbp/geneticaltheoryo031631mbp.pdf)
-- [ ] [**J. B. S. Haldane — *The Causes of Evolution***](https://jbshaldane.org/books/1932-Causes-of-Evolution/haldane-1932-causes-of-evolution-flat.pdf)
-- [ ] **George Gaylord Simpson — *Tempo and Mode in Evolution***
+- [ ] **Charles Darwin — _On the Origin of Species_** [Reading on Remarkable](https://darwin-online.org.uk/converted/pdf/1861_OriginNY_F382.pdf)
+- [ ] **Erwin Schrödinger — _What Is Life?_** [Listening on Audible](https://www.audible.ca/pd/What-Is-Life-Audiobook/1541446410)
+- [ ] **Paul Nurse — _What Is Life? Five Great Ideas in Biology_**
+- [ ] [**Horace Freeland Judson — _The Eighth Day of Creation_**](https://archive.org/details/eighthdayofcreat00juds)
+- [ ] [**Theodosius Dobzhansky — _Genetics and the Origin of Species_**](https://archive.org/details/geneticsoriginfo00dobz)
+- [ ] [**R. A. Fisher — _The Genetical Theory of Natural Selection_**](https://archive.org/download/geneticaltheoryo031631mbp/geneticaltheoryo031631mbp.pdf)
+- [ ] [**J. B. S. Haldane — _The Causes of Evolution_**](https://jbshaldane.org/books/1932-Causes-of-Evolution/haldane-1932-causes-of-evolution-flat.pdf)
+- [ ] **George Gaylord Simpson — _Tempo and Mode in Evolution_**
 - [ ] [**Sewall Wright (1931) — “Evolution in Mendelian Populations”**](https://pmc.ncbi.nlm.nih.gov/articles/PMC1201091/pdf/)
-- [ ] [**Bruce Alberts et al. — *Molecular Biology of the Cell***](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
-- [ ] **(Lehninger) — *Principles of Biochemistry***
-- [ ] [**James D. Watson et al. — *Molecular Biology of the Gene***](https://archive.org/details/molecularbiology0000wats)
-- [ ] [**Mark Ptashne — *A Genetic Switch***](https://archive.org/details/geneticswitchgen0000ptas)
+- [ ] [**Bruce Alberts et al. — _Molecular Biology of the Cell_**](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
+- [ ] **(Lehninger) — _Principles of Biochemistry_**
+- [ ] [**James D. Watson et al. — _Molecular Biology of the Gene_**](https://archive.org/details/molecularbiology0000wats)
+- [ ] [**Mark Ptashne — _A Genetic Switch_**](https://archive.org/details/geneticswitchgen0000ptas)
 - [ ] [**Watson & Crick (1953) — “Molecular Structure of Nucleic Acids”**](https://www.nature.com/scitable/content/16331/molecularstructureofDNAswatsoncrick.pdf)
-- [ ] [**Meselson & Stahl (1958) — Replication of DNA in *E. coli***](https://pmc.ncbi.nlm.nih.gov/articles/PMC528642/)
+- [ ] [**Meselson & Stahl (1958) — Replication of DNA in _E. coli_**](https://pmc.ncbi.nlm.nih.gov/articles/PMC528642/)
 - [ ] [**François Jacob & Jacques Monod (1961) — Operon papers**](https://www.scienceintheclassroom.org/sites/default/files/operon.pdf)
 - [ ] [**Marshall Nirenberg & Har Gobind Khorana — Genetic code papers**](https://www.pnas.org/content/pnas/54/6/1790.full.pdf)
 - [ ] [**Richard C. Lewontin & Motoo Kimura — Neutral theory**](https://www.nature.com/articles/217624a0.pdf)
-- [ ] **David L. Nelson & Michael M. Cox — *Lehninger Principles of Biochemistry***
-- [ ] **Susan R. Wessler et al. (Griffiths et al.) — *An Introduction to Genetic Analysis***
-- [ ] [**Leland H. Hartwell et al. — *Genetics: From Genes to Genomes***](https://archive.org/details/hartwellgeneticsfromgenestogenomes4thtxtbk)
-- [ ] [**Daniel L. Hartl & Andrew G. Clark — *Principles of Population Genetics***](https://archive.org/details/B-001-001-062)
-- [ ] **Lewis Wolpert et al. — *Principles of Development***
+- [ ] **David L. Nelson & Michael M. Cox — _Lehninger Principles of Biochemistry_**
+- [ ] **Susan R. Wessler et al. (Griffiths et al.) — _An Introduction to Genetic Analysis_**
+- [ ] [**Leland H. Hartwell et al. — _Genetics: From Genes to Genomes_**](https://archive.org/details/hartwellgeneticsfromgenestogenomes4thtxtbk)
+- [ ] [**Daniel L. Hartl & Andrew G. Clark — _Principles of Population Genetics_**](https://archive.org/details/B-001-001-062)
+- [ ] **Lewis Wolpert et al. — _Principles of Development_**
 - [ ] [**Salvador E. Luria & Max Delbrück (1943) — Fluctuation test paper**](https://www.genetics.org/content/28/6/491.full.pdf)
 - [ ] [**Early Hox gene papers (Lewis, Nüsslein‑Volhard & Wieschaus)**](https://www.pnas.org/content/pnas/75/12/5640.full.pdf)
-- [ ] **Jonathan Pevsner — *Bioinformatics and Functional Genomics***
-- [ ] [**Phillip Compeau & Pavel A. Pevzner — *Bioinformatics Algorithms***](https://bioinformaticsalgorithms.com/books/Bioinformatics-Algorithms-2nd-Edition-Vol1.pdf)
-- [ ] **Masatoshi Nei & Sudhir Kumar — *Molecular Evolution and Phylogenetics***
-- [ ] **Joseph Felsenstein — *Inferring Phylogenies***
+- [ ] **Jonathan Pevsner — _Bioinformatics and Functional Genomics_**
+- [ ] [**Phillip Compeau & Pavel A. Pevzner — _Bioinformatics Algorithms_**](https://bioinformaticsalgorithms.com/books/Bioinformatics-Algorithms-2nd-Edition-Vol1.pdf)
+- [ ] **Masatoshi Nei & Sudhir Kumar — _Molecular Evolution and Phylogenetics_**
+- [ ] **Joseph Felsenstein — _Inferring Phylogenies_**
 - [ ] [**McDonald & Kreitman (1991) — McDonald–Kreitman test**](https://www.nature.com/articles/351652a0.pdf)
-- [ ] **Tom Strachan & Andrew Read — *Human Molecular Genetics***
-- [ ] **Kenneth Lange — *Statistical Genetics: Gene Mapping through Linkage and Association***
-- [ ] [**Joseph Sambrook & David W. Russell — *Molecular Cloning: A Laboratory Manual***](https://archive.org/details/MolecularCloningALaboratoryManual)
+- [ ] **Tom Strachan & Andrew Read — _Human Molecular Genetics_**
+- [ ] **Kenneth Lange — _Statistical Genetics: Gene Mapping through Linkage and Association_**
+- [ ] [**Joseph Sambrook & David W. Russell — _Molecular Cloning: A Laboratory Manual_**](https://archive.org/details/MolecularCloningALaboratoryManual)
 - [ ] [**Martin Jinek et al. (2012) — CRISPR‑Cas9 paper**](https://www.science.org/doi/pdf/10.1126/science.1225829)
 - [ ] [**Human Genome Project papers (2001; Nature & Science)**](https://www.nature.com/articles/35057062.pdf)
 - [ ] [**GenBank (1982) — database launch papers**](https://www.science.org/doi/pdf/10.1126/science.6274107)
@@ -83,9 +104,9 @@ I've decided to reduce my doomscrolling and start reading long form again. I did
 - [ ] [**Swiss‑Prot / UniProt (1986+) — curated protein knowledgebase**](https://academic.oup.com/nar/article-pdf/32/suppl_1/D115)
 - [ ] [**STRING database papers (early 2000s) — protein–protein interactions**](https://academic.oup.com/nar/article-pdf/31/1/258)
 - [ ] [**KEGG (1997) — Kyoto Encyclopedia of Genes and Genomes**](https://academic.oup.com/nar/article-pdf/27/1/29)
-- [ ] [**Arthur M. Lesk — *Introduction to Bioinformatics***](https://archive.org/details/introductiontobi0000lesk)
-- [ ] [**David W. Mount — *Bioinformatics: Sequence and Genome Analysis***](https://archive.org/details/bioinformaticsse0000moun)
-- [ ] **Richard Durbin, Sean R. Eddy, Anders Krogh & Graeme Mitchison — *Biological Sequence Analysis***
+- [ ] [**Arthur M. Lesk — _Introduction to Bioinformatics_**](https://archive.org/details/introductiontobi0000lesk)
+- [ ] [**David W. Mount — _Bioinformatics: Sequence and Genome Analysis_**](https://archive.org/details/bioinformaticsse0000moun)
+- [ ] **Richard Durbin, Sean R. Eddy, Anders Krogh & Graeme Mitchison — _Biological Sequence Analysis_**
 - [ ] [**Annual Review of Genomics and Human Genetics (journal)**](https://www.annualreviews.org/journal/genom)
 - [ ] [**Eric Wang, Mark Gerstein & Michael Snyder (2009) — “RNA‑Seq: a revolutionary tool for transcriptomics”**](https://www.nature.com/articles/nrg2484.pdf)
 - [ ] [**Michael S. Lawrence et al. (2014) — “Bioinformatics for cancer genomics”**](https://cancerdiscovery.aacrjournals.org/content/candisc/4/1/47.full.pdf)
@@ -99,13 +120,13 @@ I've decided to reduce my doomscrolling and start reading long form again. I did
 - [ ] [**Heng Li et al. (2009) — SAM/BAM and SAMtools**](https://academic.oup.com/bioinformatics/article-pdf/25/16/2078/523092)
 - [ ] [**Petr Danecek et al. (2011) — VCF/VCFtools**](https://academic.oup.com/bioinformatics/article-pdf/27/15/2156/5281331)
 - [ ] [**John Jumper et al. (2021) — AlphaFold2**](https://www.nature.com/articles/s41586-021-03819-2.pdf)
-- [ ] [**Peter E. Hart, Nils J. Nilsson & Bertram Raphael (1968) — A* search**](https://www.cs.auckland.ac.nz/courses/compsci709s2c/resources/Mike.d/astarNilsson.pdf)
+- [ ] [__Peter E. Hart, Nils J. Nilsson & Bertram Raphael (1968) — A_ search_*](https://www.cs.auckland.ac.nz/courses/compsci709s2c/resources/Mike.d/astarNilsson.pdf)
 - [ ] [**Richard E. Fikes & Nils J. Nilsson (1971) — STRIPS planning**](https://ai.stanford.edu/~nilsson/STRIPS.pdf)
 - [ ] [**J. Alan Robinson (1965) — Resolution principle**](https://courses.engr.illinois.edu/cs598ps/assets/notes/robinson-resolution.pdf)
 - [ ] [**Martin Davis, Hilary Putnam, George Logemann & Donald Loveland (1962) — DPLL**](https://www.cs.toronto.edu/~bor/Papers/Classic/dpll.pdf)
 - [ ] [**Rudolf E. Kálmán (1960) — Kalman filter**](https://courses.cs.duke.edu/compsci527/cps274/fall11/papers/Kalman60.pdf)
 - [ ] [**Arthur P. Dempster, Nan M. Laird & Donald B. Rubin (1977) — EM algorithm**](https://www.jstor.org/stable/2984882)
-- [ ] **Judea Pearl (1988) — *Probabilistic Reasoning in Intelligent Systems***
+- [ ] **Judea Pearl (1988) — _Probabilistic Reasoning in Intelligent Systems_**
 - [ ] [**Herbert Robbins & Sutton Monro (1951) — Stochastic approximation**](https://www.jstor.org/stable/2238007)
 - [ ] [**Boris Polyak (1964) — Heavy‑ball momentum**](https://www.mathnet.ru/eng/izv8540)
 - [ ] [**Yurii Nesterov (1983) — Accelerated gradient method**](https://core.ac.uk/download/pdf/82462031.pdf)
@@ -162,16 +183,16 @@ I've decided to reduce my doomscrolling and start reading long form again. I did
 - [ ] [**Yao et al. (2022) — ReAct (reason+act prompting)**](https://arxiv.org/pdf/2210.03629.pdf)
 - [ ] [**Chen Qu et al. (2024) — Tool‑use/agents survey**](https://arxiv.org/pdf/2402.06735.pdf)
 - [ ] [**Shiyu (Steven) Gui et al. (2024) — Self‑supervised learning survey**](https://arxiv.org/pdf/2307.01831.pdf)
-- [ ] **Daphne Koller & Nir Friedman (2009) — *Probabilistic Graphical Models***
-- [ ] **Christopher M. Bishop (2006) — *Pattern Recognition and Machine Learning***
-- [ ] [**Trevor Hastie, Robert Tibshirani & Jerome Friedman (2009) — *The Elements of Statistical Learning***](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print4.pdf)
-- [ ] [**Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani (2021) — *An Introduction to Statistical Learning (2e)***](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
-- [ ] **Kevin P. Murphy (2022) — *Probabilistic Machine Learning* (vols. 1–2)**
+- [ ] **Daphne Koller & Nir Friedman (2009) — _Probabilistic Graphical Models_**
+- [ ] **Christopher M. Bishop (2006) — _Pattern Recognition and Machine Learning_**
+- [ ] [**Trevor Hastie, Robert Tibshirani & Jerome Friedman (2009) — _The Elements of Statistical Learning_**](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print4.pdf)
+- [ ] [**Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani (2021) — _An Introduction to Statistical Learning (2e)_**](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+- [ ] **Kevin P. Murphy (2022) — _Probabilistic Machine Learning_ (vols. 1–2)**
 - [ ] [**Jürgen Schmidhuber (2015) — “Deep Learning in Neural Networks: An Overview”**](https://arxiv.org/pdf/1404.7828.pdf)
 - [ ] [**Yoshua Bengio, Aaron Courville & Pascal Vincent (2013) — Representation learning review**](https://arxiv.org/pdf/1206.5538.pdf)
 - [ ] [**Vladimir N. Vapnik & Alexey Y. Chervonenkis (1971) — VC theory**](https://link.springer.com/content/pdf/10.1007/BF00994018.pdf)
 - [ ] [**Leslie Valiant (1984) — PAC learning**](https://dl.acm.org/doi/pdf/10.1145/800057.808710)
-- [ ] **Vladimir N. Vapnik (1995/1998) — *The Nature of Statistical Learning Theory***
+- [ ] **Vladimir N. Vapnik (1995/1998) — _The Nature of Statistical Learning Theory_**
 - [ ] [**Hirotugu Akaike (1973) — AIC**](https://www.jstor.org/stable/2683254)
 - [ ] [**Gideon Schwarz (1978) — BIC**](https://www.jstor.org/stable/2240369)
 - [ ] [**Mervyn Stone (1974) — Cross‑validation foundations**](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2517-6161.1974.tb00994.x)
@@ -194,7 +215,7 @@ I've decided to reduce my doomscrolling and start reading long form again. I did
 - [ ] [**Arthur E. Hoerl & Robert W. Kennard (1970) — Ridge regression**](https://www.osti.gov/servlets/purl/5032528)
 - [ ] [**Robert Tibshirani (1996) — LASSO**](https://www.jstor.org/stable/2346178)
 - [ ] [**Hui Zou & Trevor Hastie (2005) — Elastic Net**](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
-- [ ] [**Stephen Boyd & Lieven Vandenberghe (2004) — *Convex Optimization***](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [ ] [**Stephen Boyd & Lieven Vandenberghe (2004) — _Convex Optimization_**](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - [ ] [**Arkadi Nemirovski & David Yudin (1983) — Mirror descent/complexity in optimization**](https://web.stanford.edu/class/cme323/notes/MirrorDescent.pdf)
 - [ ] [**Amir Beck & Marc Teboulle (2009) — FISTA/proximal gradient**](https://www.math.tau.ac.il/~teboulle/downloads/BecTeb_OPTIM.pdf)
 - [ ] [**Stephen Boyd et al. (2011) — ADMM survey**](https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf)
@@ -261,15 +282,15 @@ I've decided to reduce my doomscrolling and start reading long form again. I did
 - [ ] [**Varun Gadre et al. (2023) — DataComp benchmark**](https://arxiv.org/pdf/2304.06762.pdf)
 - [ ] [**Mikhail Belkin et al. (2019) — Double descent**](https://arxiv.org/pdf/1812.11118.pdf)
 - [ ] [**Pierre Foret, Ariel Kleiner, Huy Nguyen & Behnam Neyshabur (2021) — SAM optimizer**](https://arxiv.org/pdf/2010.01412.pdf)
-- [ ] **Judea Pearl — *Causality***
-- [ ] **Guido W. Imbens & Donald B. Rubin — *Causal Inference* (2015)**
-- [ ] **Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments***
-- [ ] [**Tor Lattimore & Csaba Szepesvári — *Bandit Algorithms***](https://tor-lattimore.com/downloads/book/book.pdf)
+- [ ] **Judea Pearl — _Causality_**
+- [ ] **Guido W. Imbens & Donald B. Rubin — _Causal Inference_ (2015)**
+- [ ] **Ron Kohavi, Diane Tang & Ya Xu — _Trustworthy Online Controlled Experiments_**
+- [ ] [**Tor Lattimore & Csaba Szepesvári — _Bandit Algorithms_**](https://tor-lattimore.com/downloads/book/book.pdf)
 - [ ] [**Reza Shokri et al. (2017) — Membership inference attacks**](https://arxiv.org/pdf/1610.05820.pdf)
-- [ ] **Andrey N. Kolmogorov (1933) — *Axioms of probability* (Foundations of Probability)**
+- [ ] **Andrey N. Kolmogorov (1933) — _Axioms of probability_ (Foundations of Probability)**
 - [ ] [**Jerzy Neyman & Egon Pearson (1933) — Hypothesis testing framework**](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177733182)
 - [ ] [**Fisher (1918–1935) — ANOVA & maximum likelihood**](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.1922.0008)
-- [ ] [**Claude E. Shannon (1948) — *A Mathematical Theory of Communication***](https://people.cs.pitt.edu/~milos/courses/cs2731/Lectures/class18.pdf)
+- [ ] [**Claude E. Shannon (1948) — _A Mathematical Theory of Communication_**](https://people.cs.pitt.edu/~milos/courses/cs2731/Lectures/class18.pdf)
 - [ ] [**C. R. Rao (1945) — Cramér–Rao lower bound**](https://www.jstor.org/stable/2332561)
 - [ ] [**John W. Tukey (1949) — Early exploratory data analysis**](https://projecteuclid.org/download/pdf_1/euclid.aoas/1176325452)
 - [ ] [**Bradley Efron (1979) — Bootstrap**](https://statweb.stanford.edu/~ckirby/brad/Other/1979NegativeBootstrap.pdf)
@@ -277,17 +298,17 @@ I've decided to reduce my doomscrolling and start reading long form again. I did
 - [ ] [**Elizbar Nadaraya (1964) & Geoffrey Watson (1964) — Kernel regression**](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177704474)
 - [ ] [**Charles J. Stone (1977) — Consistency of nonparametric regression**](https://www.jstor.org/stable/2240365)
 - [ ] **Kendall’s Advanced Theory of Statistics (volumes)**
-- [ ] **Harald Cramér (1946) — *Mathematical Methods of Statistics***
-- [ ] **Erich L. Lehmann & George Casella — *Theory of Point Estimation***
-- [ ] **Erich L. Lehmann & Joseph P. Romano — *Testing Statistical Hypotheses***
-- [ ] **C. R. Rao (1973) — *Linear Statistical Inference and Its Applications***
-- [ ] [**Larry Wasserman (2004) — *All of Statistics***](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoD/All_of_statistics.pdf)
-- [ ] **Andrew Gelman et al. — *Bayesian Data Analysis (3rd ed.)***
-- [ ] **George E. P. Box & Gwilym M. Jenkins — *Time Series Analysis: Forecasting and Control***
-- [ ] [**Rob J. Hyndman & George Athanasopoulos — *Forecasting: Principles and Practice***](https://otexts.com/fpp3/)
+- [ ] **Harald Cramér (1946) — _Mathematical Methods of Statistics_**
+- [ ] **Erich L. Lehmann & George Casella — _Theory of Point Estimation_**
+- [ ] **Erich L. Lehmann & Joseph P. Romano — _Testing Statistical Hypotheses_**
+- [ ] **C. R. Rao (1973) — _Linear Statistical Inference and Its Applications_**
+- [ ] [**Larry Wasserman (2004) — _All of Statistics_**](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoD/All_of_statistics.pdf)
+- [ ] **Andrew Gelman et al. — _Bayesian Data Analysis (3rd ed.)_**
+- [ ] **George E. P. Box & Gwilym M. Jenkins — _Time Series Analysis: Forecasting and Control_**
+- [ ] [**Rob J. Hyndman & George Athanasopoulos — _Forecasting: Principles and Practice_**](https://otexts.com/fpp3/)
 - [ ] [**Michael M. Bronstein et al. — “Geometric Deep Learning”**](https://arxiv.org/pdf/2104.13478.pdf)
 - [ ] [**Zonghan Wu et al. — Survey on graph neural networks**](https://arxiv.org/pdf/2011.08235.pdf)
-- [ ] **William L. Hamilton — *Graph Representation Learning***
+- [ ] **William L. Hamilton — _Graph Representation Learning_**
 - [ ] [**Snakemake — workflow engine paper**](https://snakemake.readthedocs.io/en/stable/_downloads/71cfe5870b995e56c8c43259c59e86f9/snakemake-paper.pdf)
 - [ ] [**Nextflow — workflow engine paper**](https://academic.oup.com/bioinformatics/article-pdf/34/17/3094)
 - [ ] [**Annual Review–style primer on five central ideas in biology**](https://www.annualreviews.org/journal/genet)
