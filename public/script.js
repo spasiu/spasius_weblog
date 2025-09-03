@@ -35,6 +35,10 @@ const processedSections = blogSections.map((md) => {
 
 const html = processedHeader + processedSections;
 document.querySelector("#markdown").innerHTML = html;
+
+// Initialize image expansion after content is inserted
+initImageExpansion();
+
 document.querySelectorAll(".title").forEach(title => {
     title.addEventListener("click", () => {
         const currentHash = window.location.hash.slice(1);
@@ -124,3 +128,14 @@ function initDarkMode() {
 
 // Initialize dark mode after DOM is loaded
 initDarkMode();
+
+// Image expansion functionality
+function initImageExpansion() {
+    // Add click handlers to all images
+    document.querySelectorAll('img').forEach(img => {
+        img.addEventListener('click', (e) => {
+            e.stopPropagation();
+            img.classList.toggle('expanded');
+        });
+    });
+}

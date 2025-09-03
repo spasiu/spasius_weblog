@@ -2,6 +2,8 @@
 
 The scratchpad of my life.
 
+![The Smoker, a presumed self portrait of van Craesbeek, 1635-36](assets/the_smoker.jpg)
+
 ## [draft] How I made this blog site 2025.09.04
 
 ...
