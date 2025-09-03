@@ -2,9 +2,6 @@
 
 The scratchpad of my life.
 
-![The Smoker, a presumed self portrait of van Craesbeek, 1635-36](assets/the_smoker.jpg)
-
-
 ## [draft] It's that time of the month 2025.09.05
 
 ...
@@ -15,7 +12,9 @@ The scratchpad of my life.
 
 ## Living Ergonomically One 2025.09.03
 
-I'm curious what would happen if I payed attention to how I felt inside and outside, and tried to be as comfortabel as possible. Like walking down the street, trying to walk as comfortably as possible. Going to a party, doing what I need to feel at ease. Just being ergonomic.
+I'm curious what would happen if I payed attention to how I felt inside and outside, and tried to be as comfortable as possible. Like walking down the street, trying to walk as comfortably as possible. Going to a party, doing what I need to feel at ease. Just being ergonomic.
+
+![Nicolaes Maes - Children bathing](assets/children_bathing.jpg)
 
 ## Inner Dialogue One 2025.09.03
 
@@ -27,6 +26,8 @@ Maybe sometimes my inner voice will make a statement or a judgement, or respond 
 - _You're not good enough._ -> _What if you're not good enough?_
 - _I don't feel good right now._ -> _How do I feel right now?_
 - ...
+
+![The Smoker, a presumed self portrait of van Craesbeek, 1635-36](assets/the_smoker.jpg)
 
 Why questions might be sort of judgey, so perhaps I'll stick to **_how?_** and **_what?_** and **_could?_**, instead of **_why?_** and **_should?_** In spirit if not to the letter. It's all a big experiment.
 
