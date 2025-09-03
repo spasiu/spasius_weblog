@@ -1,6 +1,6 @@
 # Spasiu's Weblog
 
-The scratchpad of my life.
+The scratchpad of my life. [Subscribe by RSS](rss.xml).
 
 ![My table](assets/table.jpg)
 
