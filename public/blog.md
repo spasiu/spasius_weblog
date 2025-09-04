@@ -1,6 +1,6 @@
 # Spasiu's Weblog
 
-The scratchpad of my life. [Subscribe by RSS](rss.xml).
+Rambling scratch. [Subscribe by RSS](rss.xml).
 
 ![My table](assets/table.jpg)
 
@@ -17,23 +17,6 @@ The scratchpad of my life. [Subscribe by RSS](rss.xml).
 - Polymorphism is way cooler in biology than in programming.
 - The fossil record is pathetic.
 - Homology and analogy. Structural similarity can signal relatedness and shows common origins. Analogy occurs between unrelated species that use common functionality.
-
-## How I made this blog site 2025.09.03
-
-I wanted to write my blog as a single ever expanding markdown file (blog.md) served from S3/CloudFront, but also make it a bit prettier on the presentation end than just markdown.
-
-Basically the client side fetches the markdown file and renders it client side nesting articles under h2 headings, supporting a dark mode, rendering images as little expandable stamps, and GitHub style checkbox support.
-
-Some future additions:
-
-- [ ] support for h3, h4, h5, h6 headings
-- [ ] comments
-- [ ] search
-- [ ] some completely random AI functionaltiy
-
-![A screenshot of VS Code showing this blog post in Markdown](assets/vs_code.png)
-
-[Source code on GitHub](https://github.com/spasiu/spasius_weblog).
 
 ## Living Ergonomically One 2025.09.03
 
@@ -56,30 +39,23 @@ Maybe sometimes my inner voice will make a statement or a judgement, or respond 
 
 Why questions might be sort of judgey, so perhaps I'll stick to **_how?_** and **_what?_** and **_could?_**, instead of **_why?_** and **_should?_** In spirit if not to the letter. It's all a big experiment.
 
-## Twenty Psychoactive Questions 2025.09.02
+## How I made this blog site 2025.09.02
 
-This list is taken from the Art of Accomplishment mailing list. You can [subscribe to the mailing list here](https://www.artofaccomplishment.com/).
+I wanted to write my blog as a single ever expanding markdown file (blog.md) served from S3/CloudFront, but also make it a bit prettier on the presentation end than just markdown.
 
-- [ ] What happens to your mind when you listen to the silence rather than the noise around you right now?
-- [ ] If you can't go into the future or the past for proof, what (if anything) is broken or "not enough" about who you are right now?
-- [ ] If you improved everything you think you need to improve to be good enough, what would you need then to be enough?
-- [ ] How do you enjoy this moment 10% more without changing what you're doing?
-- [ ] How did you improve as a kid when you hadn't yet learned how to beat yourself up?
-- [ ] What are you pretending to not know?
-- [ ] What is your confusion protecting you from?
-- [ ] What do you feel in your body after you say “I love myself” 10 times?
-- [ ] What do you want, that you don’t let yourself want?
-- [ ] What is the part of you that has never changed?
-- [ ] What's the scary thing you're not telling someone?
-- [ ] What's the scary thing you're not telling yourself?
-- [ ] What’s the payoff of holding on to your current identity?
-- [ ] What’s the emotion you most avoid, and what would it be like to feel it fully?
-- [ ] What are you getting out of being stuck?
-- [ ] What is the fear beneath the fear?
-- [ ] What do you think is unforgivable in yourself, and who taught you that?
-- [ ] What would your life look like if you had no fear giving and receiving love—to yourself, and others?
-- [ ] What would you do if there were no way for you to ever prove yourself?
-- [ ] Who would you be if you knew you could never get it wrong?
+Basically the client side fetches the markdown file and renders it client side nesting articles under h2 headings, supporting a dark mode, rendering images as little expandable stamps, and GitHub style checkbox support.
+
+Some future additions:
+
+- [x] support for RSS
+- [x] support for h3, h4, h5, h6 headings
+- [ ] comments
+- [ ] search
+- [ ] some completely random AI functionaltiy
+
+![A screenshot of VS Code showing this blog post in Markdown](assets/vs_code.png)
+
+[Source code on GitHub](https://github.com/spasiu/spasius_weblog).
 
 ## My September Reading List 2025.09.01
 

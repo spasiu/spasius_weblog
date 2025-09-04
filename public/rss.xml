@@ -26,24 +26,6 @@
 ]]></description>
     </item>
     <item>
-      <title>How I made this blog site</title>
-      <link>https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/#how-i-made-this-blog-site-2025-09-03</link>
-      <guid>https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/#how-i-made-this-blog-site-2025-09-03</guid>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p>I wanted to write my blog as a single ever expanding markdown file (<a href="http://blog.md">blog.md</a>) served from S3/CloudFront, but also make it a bit prettier on the presentation end than just markdown.</p>
-<p>Basically the client side fetches the markdown file and renders it client side nesting articles under h2 headings, supporting a dark mode, rendering images as little expandable stamps, and GitHub style checkbox support.</p>
-<p>Some future additions:</p>
-<ul>
-<li>[ ] support for h3, h4, h5, h6 headings</li>
-<li>[ ] comments</li>
-<li>[ ] search</li>
-<li>[ ] some completely random AI functionaltiy</li>
-</ul>
-<p><img src="https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/assets/vs_code.png" alt="A screenshot of VS Code showing this blog post in Markdown"></p>
-<p><a href="https://github.com/spasiu/spasius_weblog">Source code on GitHub</a>.</p>
-]]></description>
-    </item>
-    <item>
       <title>Living Ergonomically One</title>
       <link>https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/#living-ergonomically-one-2025-09-03</link>
       <guid>https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/#living-ergonomically-one-2025-09-03</guid>
@@ -70,33 +52,22 @@
 ]]></description>
     </item>
     <item>
-      <title>Twenty Psychoactive Questions</title>
-      <link>https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/#twenty-psychoactive-questions-2025-09-02</link>
-      <guid>https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/#twenty-psychoactive-questions-2025-09-02</guid>
+      <title>How I made this blog site</title>
+      <link>https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/#how-i-made-this-blog-site-2025-09-02</link>
+      <guid>https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/#how-i-made-this-blog-site-2025-09-02</guid>
       <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p>This list is taken from the Art of Accomplishment mailing list. You can <a href="https://www.artofaccomplishment.com/">subscribe to the mailing list here</a>.</p>
+      <description><![CDATA[<p>I wanted to write my blog as a single ever expanding markdown file (<a href="http://blog.md">blog.md</a>) served from S3/CloudFront, but also make it a bit prettier on the presentation end than just markdown.</p>
+<p>Basically the client side fetches the markdown file and renders it client side nesting articles under h2 headings, supporting a dark mode, rendering images as little expandable stamps, and GitHub style checkbox support.</p>
+<p>Some future additions:</p>
 <ul>
-<li>[ ] What happens to your mind when you listen to the silence rather than the noise around you right now?</li>
-<li>[ ] If you can’t go into the future or the past for proof, what (if anything) is broken or “not enough” about who you are right now?</li>
-<li>[ ] If you improved everything you think you need to improve to be good enough, what would you need then to be enough?</li>
-<li>[ ] How do you enjoy this moment 10% more without changing what you’re doing?</li>
-<li>[ ] How did you improve as a kid when you hadn’t yet learned how to beat yourself up?</li>
-<li>[ ] What are you pretending to not know?</li>
-<li>[ ] What is your confusion protecting you from?</li>
-<li>[ ] What do you feel in your body after you say “I love myself” 10 times?</li>
-<li>[ ] What do you want, that you don’t let yourself want?</li>
-<li>[ ] What is the part of you that has never changed?</li>
-<li>[ ] What’s the scary thing you’re not telling someone?</li>
-<li>[ ] What’s the scary thing you’re not telling yourself?</li>
-<li>[ ] What’s the payoff of holding on to your current identity?</li>
-<li>[ ] What’s the emotion you most avoid, and what would it be like to feel it fully?</li>
-<li>[ ] What are you getting out of being stuck?</li>
-<li>[ ] What is the fear beneath the fear?</li>
-<li>[ ] What do you think is unforgivable in yourself, and who taught you that?</li>
-<li>[ ] What would your life look like if you had no fear giving and receiving love—to yourself, and others?</li>
-<li>[ ] What would you do if there were no way for you to ever prove yourself?</li>
-<li>[ ] Who would you be if you knew you could never get it wrong?</li>
+<li>[x] support for RSS</li>
+<li>[x] support for h3, h4, h5, h6 headings</li>
+<li>[ ] comments</li>
+<li>[ ] search</li>
+<li>[ ] some completely random AI functionaltiy</li>
 </ul>
+<p><img src="https://k448j8b2t1.execute-api.us-west-2.amazonaws.com/assets/vs_code.png" alt="A screenshot of VS Code showing this blog post in Markdown"></p>
+<p><a href="https://github.com/spasiu/spasius_weblog">Source code on GitHub</a>.</p>
 ]]></description>
     </item>
     <item>

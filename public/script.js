@@ -2,7 +2,7 @@ import { marked } from "https://cdn.jsdelivr.net/npm/marked@12.0.2/lib/marked.es
 
 const response = await fetch("blog.md");
 const markdown = await response.text();
-const sections = markdown.trim().split('## ');
+const sections = markdown.trim().split('\n## ');
 const headerContent = sections[0];
 // Filter out draft posts (those with [draft] in the heading)
 const blogSections = sections.slice(1).filter((section) => {
