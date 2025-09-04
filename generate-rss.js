@@ -21,7 +21,7 @@ const md = new MarkdownIt({
 const SITE_URL = process.env.SITE_URL; // Update this to your actual domain
 const SITE_TITLE = process.env.SITE_TITLE;
 const SITE_DESCRIPTION = process.env.SITE_DESCRIPTION;
-const AUTHOR_EMAIL = process.env.AUTHOR_EMAIL;
+const AUTHOR = process.env.AUTHOR;
 
 function generateId(heading) {
   // Use the same logic as script.js: lowercase and replace spaces/dots with dashes
@@ -124,8 +124,8 @@ function generateRSSFeed() {
     <language>en-us</language>
     <lastBuildDate>${latestDate.toUTCString()}</lastBuildDate>
     <atom:link href="${SITE_URL}/rss.xml" rel="self" type="application/rss+xml" />
-    <managingEditor>${AUTHOR_EMAIL}</managingEditor>
-    <webMaster>${AUTHOR_EMAIL}</webMaster>
+    <managingEditor>${AUTHOR}</managingEditor>
+    <webMaster>${AUTHOR}</webMaster>
 ${rssItems}
   </channel>
 </rss>`;

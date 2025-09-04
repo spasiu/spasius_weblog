@@ -7,7 +7,6 @@ get /ping
 @static
 spa true
 prune true
-compression br
 
 @aws
 # profile stasi
